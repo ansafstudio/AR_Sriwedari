@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="THR_Sriwedari" size="200.000000 175.116638" />
+    <ImageTarget name="Pendopo_Joglo" size="200.000000 175.116638" />
+    <ImageTarget name="Museum_RadyaPustaka" size="200.000000 175.116638" />
+    <ImageTarget name="MuseumKeris" size="200.000000 175.116638" />
+    <ImageTarget name="GWO_Sriwedari" size="200.000000 175.116638" />
+    <ImageTarget name="GKS_Sriwedari" size="200.000000 175.116638" />
+    <ImageTarget name="ArchitectureSriwedari2018" size="200.000000 175.116638" />
+  </Tracking>
+</QCARConfig>

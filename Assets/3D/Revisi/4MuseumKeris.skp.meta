@@ -1,0 +1,324 @@
+fileFormatVersion: 2
+guid: d839d258e46ada646b26342a07671929
+timeCreated: 1532579140
+licenseType: Pro
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f00000050000000510000005200000053000000540000005500000056000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 139b98ebde164779d37ef212a0d880f8
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 21.36005, y: 0.90640503, z: 24.382961}
+      lookAt: {x: 11.626171, y: 2.491505, z: 14.578689}
+      up: {x: 0.080308266, y: 0.99348253, z: 0.08088903}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Component#2
+    100004: Component#2 1
+    100006: Component#2 2
+    100008: Component#2 3
+    100010: Component#2 4
+    100012: Component#2 5
+    100014: Group 1
+    100016: Group 11
+    100018: Group 12
+    100020: Group 14
+    100022: Group 16
+    100024: Group 18
+    100026: Group 20
+    100028: Group 22
+    100030: Group 23
+    100032: Group 25
+    100034: Group 27
+    100036: Group 29
+    100038: Group 3
+    100040: Group 31
+    100042: Group 32
+    100044: Group 34
+    100046: Group 36
+    100048: Group 38
+    100050: Group 40
+    100052: Group 42
+    100054: Group 43
+    100056: Group 45
+    100058: Group 47
+    100060: Group 49
+    100062: Group 5
+    100064: Group 51
+    100066: Group 53
+    100068: Group 54
+    100070: Group 56
+    100072: Group 58
+    100074: Group 59
+    100076: Group 61
+    100078: Group 63
+    100080: Group 64
+    100082: Group 66
+    100084: Group 68
+    100086: Group 69
+    100088: Group 7
+    100090: Group 71
+    100092: Group 73
+    100094: Group 9
+    400000: //RootNode
+    400002: Component#2
+    400004: Component#2 1
+    400006: Component#2 2
+    400008: Component#2 3
+    400010: Component#2 4
+    400012: Component#2 5
+    400014: Group 1
+    400016: Group 11
+    400018: Group 12
+    400020: Group 14
+    400022: Group 16
+    400024: Group 18
+    400026: Group 20
+    400028: Group 22
+    400030: Group 23
+    400032: Group 25
+    400034: Group 27
+    400036: Group 29
+    400038: Group 3
+    400040: Group 31
+    400042: Group 32
+    400044: Group 34
+    400046: Group 36
+    400048: Group 38
+    400050: Group 40
+    400052: Group 42
+    400054: Group 43
+    400056: Group 45
+    400058: Group 47
+    400060: Group 49
+    400062: Group 5
+    400064: Group 51
+    400066: Group 53
+    400068: Group 54
+    400070: Group 56
+    400072: Group 58
+    400074: Group 59
+    400076: Group 61
+    400078: Group 63
+    400080: Group 64
+    400082: Group 66
+    400084: Group 68
+    400086: Group 69
+    400088: Group 7
+    400090: Group 71
+    400092: Group 73
+    400094: Group 9
+    2300000: Component#2
+    2300002: Component#2 1
+    2300004: Component#2 2
+    2300006: Component#2 3
+    2300008: Component#2 4
+    2300010: Component#2 5
+    2300012: Group 1
+    2300014: Group 12
+    2300016: Group 14
+    2300018: Group 16
+    2300020: Group 18
+    2300022: Group 20
+    2300024: Group 23
+    2300026: Group 25
+    2300028: Group 27
+    2300030: Group 29
+    2300032: Group 3
+    2300034: Group 32
+    2300036: Group 34
+    2300038: Group 36
+    2300040: Group 38
+    2300042: Group 40
+    2300044: Group 43
+    2300046: Group 45
+    2300048: Group 47
+    2300050: Group 49
+    2300052: Group 5
+    2300054: Group 51
+    2300056: Group 54
+    2300058: Group 56
+    2300060: Group 59
+    2300062: Group 61
+    2300064: Group 64
+    2300066: Group 66
+    2300068: Group 69
+    2300070: Group 7
+    2300072: Group 71
+    2300074: Group 73
+    2300076: Group 9
+    3300000: Component#2
+    3300002: Component#2 1
+    3300004: Component#2 2
+    3300006: Component#2 3
+    3300008: Component#2 4
+    3300010: Component#2 5
+    3300012: Group 1
+    3300014: Group 12
+    3300016: Group 14
+    3300018: Group 16
+    3300020: Group 18
+    3300022: Group 20
+    3300024: Group 23
+    3300026: Group 25
+    3300028: Group 27
+    3300030: Group 29
+    3300032: Group 3
+    3300034: Group 32
+    3300036: Group 34
+    3300038: Group 36
+    3300040: Group 38
+    3300042: Group 40
+    3300044: Group 43
+    3300046: Group 45
+    3300048: Group 47
+    3300050: Group 49
+    3300052: Group 5
+    3300054: Group 51
+    3300056: Group 54
+    3300058: Group 56
+    3300060: Group 59
+    3300062: Group 61
+    3300064: Group 64
+    3300066: Group 66
+    3300068: Group 69
+    3300070: Group 7
+    3300072: Group 71
+    3300074: Group 73
+    3300076: Group 9
+    4300000: Mesh Group 1
+    4300002: Mesh Group 3
+    4300004: Mesh Group 5
+    4300006: Mesh Group 7
+    4300008: Mesh Group 12
+    4300010: Mesh Group 14
+    4300012: Mesh Group 16
+    4300014: Mesh Group 18
+    4300016: Mesh Group 20
+    4300018: Mesh Group 23
+    4300020: Mesh Group 25
+    4300022: Mesh Group 29
+    4300024: Mesh Group 32
+    4300026: Mesh Group 54
+    4300028: Mesh Component#2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_000
+    second: {fileID: 2100000, guid: fdddce94c90129a4796e7b791133b7cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_006]1'
+    second: {fileID: 2100000, guid: 3f56f6eefb2a5c84081f7f4a66535bfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_009]1'
+    second: {fileID: 2100000, guid: 21ef6a5ee78a3ce46b48da279dfe13da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Roofing_Tile_Spanish]1'
+    second: {fileID: 2100000, guid: ddd9493a4674b8f46bde3674cca1d057, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Stone_Masonry_Multi]1'
+    second: {fileID: 2100000, guid: d06ac33357e4a7545b5575f7af33a251, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Stone_Pavers_Flagstone_Gray]1'
+    second: {fileID: 2100000, guid: b79fbcd233dbc5348b1235a01cf4180a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
